@@ -38,6 +38,7 @@ buttonCalculator: {
     backgroundColor: "#01baef",
     padding: 10,
     margin:20,
+    bottom: 200
 },
 textButtonCalculator: {
     fontSize: 20,
