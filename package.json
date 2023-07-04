@@ -1,0 +1,19 @@
+{
+  "name": "reactnative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCorreia19/AppBitcoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCorreia19/AppBitcoin/issues"
+  },
+  "homepage": "https://github.com/GabrielCorreia19/AppBitcoin#readme"
+}

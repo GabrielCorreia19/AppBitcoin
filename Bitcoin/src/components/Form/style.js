@@ -1,13 +1,13 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
- formContext: {
-        flex: 1,
-        backgroundColor:"#fff",
-        alignItems: "center",
-        borderTopLeftRadius: 30,
-        borderTopRightRadius: 30,
-        paddingTop:30,
+formContext: {
+    flex: 1,
+    backgroundColor:"#fff",
+    alignItems: "center",
+    borderTopLeftRadius: 30,
+    borderTopRightRadius: 30,
+    paddingTop:30,
 },
 form: {
     width: "100%",
@@ -38,7 +38,6 @@ buttonCalculator: {
     backgroundColor: "#01baef",
     padding: 10,
     margin:20,
-    bottom: 200
 },
 textButtonCalculator: {
     fontSize: 20,
@@ -51,6 +50,22 @@ errorMessage: {
     color: "red",
     fontWeight: "bold",
     paddingLeft: 20,
+},
+listImcs: {
+    marginTop: 20
+},
+resultImcItem: {
+    fontSize: 26, 
+    fontWeight: "bold",
+    color: "#000",
+    height: 50, 
+    width: "100%",
+    paddingRight: 20
+},
+textResulItemList: {
+    fontSize: 16,
+    color: "#000",
+    
 }
 },
 );
